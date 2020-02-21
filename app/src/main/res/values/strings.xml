@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestHuaweiDefaultApps</string>
+    <string name="current_default_query">Current default browser query</string>
+    <string name="fixed_default_query">Fixed default browser query</string>
+</resources>
